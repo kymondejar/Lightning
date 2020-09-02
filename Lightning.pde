@@ -4,10 +4,9 @@ void setup()
 }
 void draw()
 {
-
+  ellipse (10,10,30,40);
 }
 void mousePressed()
 {
 
 }
-
